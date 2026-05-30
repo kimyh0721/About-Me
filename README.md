@@ -1,9 +1,9 @@
-# Younghyeok Kim (김영혁)
+# Younghyeok Kim
 
-M.S. Student in Mathematics & Data Science at **Korea University**  
+M.S. Student in Mathematics at Korea University  
 DLmath Lab · Advisor: Prof. Seung-Sang Oh
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kimyh0721@korea.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 ---
